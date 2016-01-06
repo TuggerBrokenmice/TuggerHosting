@@ -5,7 +5,7 @@ A utility to handle start, stop, and restart of the insurgency server instance. 
 Copy all files to the root directory of your insurgency installation and make sure ```insserv.sh``` is executable with ```chmod +x insserv.sh```
 
 
-Edit [CMDLineOptions](/CMDLineOptions) to meet your needs before running
+Edit [CMDLineOptions](/ServerManager/CMDLineOptions) to meet your needs before running
 
 ## Get Started
 
